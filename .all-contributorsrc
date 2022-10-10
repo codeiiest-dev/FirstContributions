@@ -5,6 +5,15 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+  
+   {
+      "login": "Mukulamy",
+      "name": "Mukul Yadav",
+      "profile": "https://www.linkedin.com/in/mukulji/",
+      "contributions": [
+        "code"
+      ]
+    },
     {
       "login": "Rajdeep-G",
       "name": "Rajdeep Ghosh",
