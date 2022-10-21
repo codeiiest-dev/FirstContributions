@@ -112,6 +112,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "RP2025",
+      "name": "Raksha Pahariya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100781382?v=4",
+      "profile": "https://github.com/RP2025",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -119,5 +128,6 @@
   "projectOwner": "codeiiest-dev",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
