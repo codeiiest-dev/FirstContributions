@@ -31,7 +31,11 @@ git checkout -b <your-branch-name>
 
 ## 4. Make changes
 
-Sprinkle your pixie dust ✨
+Create a new file with the format `<your-github-username>.md` inside the `contributors` directory. 
+
+>For example, if my username is `arnabsen1729` then the file name would be `arnabsen1729.md`. 
+
+Inside the file add anything you want, maybe a short bio about yourself, your hobbies etc.
 
 ## 5. Push changes
 
